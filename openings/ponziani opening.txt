@@ -1,0 +1,25 @@
+ponziani opening
+king pawn - king pawn
+NgF3 - NbC6
+C3 - D5 ( best move)
+   - BfC5 ( worst move) responder com D4
+   - D6 - D4 - NgF6 - H3 quando o cavalo comer o peão faz-se um fork
+
+
+	- NgF6			
+D4 é sempre o recomendado
+	- se cavalo come peão puxa D5 e come peão com o cavalo
+	- se pretas respondem atacando o cavalo, puxa bispo branco
+
+
+   - Ed4
+   - responde com e5 atacando o cavalo
+   - se cavalo d5 então usa rainha e bispo para a diagonal ou develop do bispo
+( regra geral, ter os dois peões do meio juntos)
+
+
+   - d5 (best move)
+   - responde com Qa4 pinning the knight
+				- peao takes e4, responde com Ne5
+						- bispo a proteger, responde taking the bishop e joga tranquilo
+	

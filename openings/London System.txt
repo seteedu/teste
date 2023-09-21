@@ -1,0 +1,18 @@
+London System
+
+a ideia é ter a piramide de peões no centro com o bispo branco por trás
+cavalo de B em D2
+
+d4 - d5
+Bcf4 - Ngf6
+e3 - c5 responde com c3 -> se puxar a rainha para pegar b2, então oferece troca de rainhas
+						se puxar c4 -> volta com a rainha para trás
+   - Bcf5 -> transição para queen's gambit com c4 e atacar lado da rainha com a rainha
+	
+    - e6 -> (pior decisão) desenvolve apenas
+					- se te oferecer um bishop trade -> puxa o teu bispo para trás para que possas abrir a torre
+
+
+d4 - Ngf6
+Bcf4 - g6 (kings indian) -> Nbc3 seguido de Qd2 a atacar
+	
